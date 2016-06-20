@@ -22,13 +22,15 @@ flag=3;
 
 
 //結果を表示
-document.getElementById('choice').textContent=message;
+
 if(flag==1){
+  document.getElementById('choice').textContent=message;
   document.write('<img src="./img/51bfac164e73a8ede3755945ce8b9e7f.jpg" width="400" height="260" />');
 break;
 }
 else if(flag==2)
 {
+  document.getElementById('choice').textContent=message;
     document.write('<img src="./img/51bfac164e73a8ede3755945ce8b9e7f.jpg" width="400" height="260" />');
 }
 
