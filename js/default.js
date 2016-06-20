@@ -9,7 +9,7 @@ if(answer===number){
   message='あたり！';
 flag=1;
 }else if(answer<number){
-  message='残念！もっと大きいです';
+  message='残念！もっと大きいですよえｗｗｗ';
 flag=2;
   
   
