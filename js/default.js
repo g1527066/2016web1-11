@@ -18,7 +18,7 @@ flag=true;
 
 
 //結果を表示
-document.getElementById('choice').style.fontSize=200.textContent=message;
+document.getElementById('choice').textContent=message;
 if(flag){
 break;
 }
