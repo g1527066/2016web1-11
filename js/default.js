@@ -1,4 +1,7 @@
+window.alert('こんにちは世界！');
+
 console.log('こんにちは世界！');
+
 
 //答えを用意
 //var number =Math.floor(Math.random()*3);
