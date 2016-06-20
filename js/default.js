@@ -24,4 +24,4 @@ break;
 }
 }
 
-document.write('<img src="./img/51bfac164e73a8ede3755945ce8b9e7f.jpg" width="200" height="130" />');
+document.write('<img src="./img/51bfac164e73a8ede3755945ce8b9e7f.jpg" width="400" height="260" />');
