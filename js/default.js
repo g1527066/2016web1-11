@@ -12,6 +12,7 @@ flag=true;
   message='残念！もっと大きいです';
 }else if(answer>number){
     message='残念！もっと小さいです';
+    document.write('<img src="./img/51bfac164e73a8ede3755945ce8b9e7f.jpg" width="400" height="260" />');
 }else{
   message='0~3の数字を入力してください';
 }
